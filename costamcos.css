@@ -1,0 +1,27 @@
+.srodek{
+    text-align: center;
+ 
+}
+.menu{
+   margin-left:300px;
+   margin-right:300px;
+   padding-left: 375px;
+   size:80%;
+   text-align: left;
+   
+   
+}
+legend{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.przycisk{
+    background-color: lawngreen;
+    text-align: center;
+    padding-left: 118px;
+    padding-right: auto;
+  
+}
+.linia{
+    display:inline-block;
+}
